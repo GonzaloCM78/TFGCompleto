@@ -74,7 +74,7 @@ Es recomendable usar Windows para garantizar compatibilidad total con los efecto
 
 ## Enlace a la documentación
 
-[Haz clic aquí para ver la documentación del proyecto](https://ejemplo.com/documentacion)
+[Haz clic aquí para ver la documentación del proyecto](https://www.notion.so/Zero-Hour-Undead-207babce718980bc9d2fc26d86e4fec7?source=copy_link)
 
 ## Enlace a Figma de la interfaz
 
@@ -99,7 +99,7 @@ Se trata de un uso legítimo que refleja el entorno real de trabajo en desarroll
 
 Agradecimientos
 a los profesores del ciclo por su guía.
-A Mario y Nico por sus comentarios y pruebas.
+A Mario, Nico y Álvaro por sus comentarios y pruebas.
 Y, especialmente, a mi familia y amigos por su constante apoyo.
 
 Referencias
